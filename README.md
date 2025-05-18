@@ -19,4 +19,4 @@ This is a financial app. It is a font end application using vanilla javascript.
 4. Javascript
 5. Dom manipulation
 
-## Live link https://shakilahamed07.github.io/payoo-app/
+## Live link https://shakilahamed07.github.io/Banking-payoo-app/
