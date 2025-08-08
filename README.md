@@ -5,7 +5,7 @@ This is a simple financial frontend application built using **Vanilla JavaScript
 
 ## 📸 Screenshot
 <p align="center">
-  <img src="https://i.ibb.co.com/Rkkw8CB3/Screenshot-2025-08-08-192616.png" alt="image" width="100%" />
+  <img src="https://i.ibb.co.com/Rkkw8CB3/Screenshot-2025-08-08-192616.png" alt="image" width="500px" />
 </p>
 
 ## How to use
