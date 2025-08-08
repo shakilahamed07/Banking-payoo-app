@@ -25,3 +25,9 @@ This is a simple financial frontend application built using **Vanilla JavaScript
 3. Tailwinds css
 4. Javascript
 5. Dom manipulation
+
+## 🛠️ Project Setup (Optional - Only if needed locally)
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shakilahamed07/Banking-payoo-app.git
