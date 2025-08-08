@@ -1,5 +1,7 @@
 ## Banking payoo app
-This is a financial app. It is a font end application using vanilla javascript.
+This is a simple financial frontend application built using **Vanilla JavaScript**. Users can simulate basic banking features like sending money, cashing out, and viewing transaction history.
+
+## Live link https://shakilahamed07.github.io/Banking-payoo-app/
 
 ## How to use
 1. Any number 11 digit
@@ -18,5 +20,3 @@ This is a financial app. It is a font end application using vanilla javascript.
 3. Tailwinds css
 4. Javascript
 5. Dom manipulation
-
-## Live link https://shakilahamed07.github.io/Banking-payoo-app/
