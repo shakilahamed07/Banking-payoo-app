@@ -3,6 +3,11 @@ This is a simple financial frontend application built using **Vanilla JavaScript
 
 ## Live link https://shakilahamed07.github.io/Banking-payoo-app/
 
+## 📸 Screenshot
+<p align="center">
+  <img src="https://i.ibb.co.com/Rkkw8CB3/Screenshot-2025-08-08-192616.png" alt="image" width="100%" />
+</p>
+
 ## How to use
 1. Any number 11 digit
 2. password 1234
